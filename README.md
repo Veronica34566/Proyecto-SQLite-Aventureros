@@ -63,3 +63,23 @@ Tabla intermedia para la relación **misiones ↔ monstruos**.
 
 ---
 
+# Proyecto-SQLite-Aventureros 🗡️🐉
+
+Base de datos en **SQLite** para registrar héroes, misiones y monstruos en un mundo de aventuras.
+
+---
+
+## 📂 Archivos del Proyecto
+
+- [proyecto_aventureros.sql](proyecto_aventureros.sql) → Script SQL para crear y poblar la base de datos.
+- `README.md` → Este archivo con la documentación del proyecto.
+
+---
+
+## 🚀 Cómo usar el proyecto
+
+1. **Clonar el repositorio**  
+   ```bash
+   git clone https://github.com/Veronica34566/Proyecto-SQLite-Aventureros.git
+   cd Proyecto-SQLite-Aventureros
+
